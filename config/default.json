@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://sqall:sqall@cluster0.x2sya.mongodb.net/mernTest?retryWrites=true&w=majority",
+  "jwtSecret": "fimadurak"
+}
